@@ -34,7 +34,7 @@ const useStyles = makeStyles((theme) => ({
     fontSize: theme.typography.pxToRem(14),
     display: "block",
     lineHeight: 1.5,
-    fontWeight: "400",
+    fontWeight: "500",
     letterSpacing: 1,
     paddingLeft: 5,
     color: online ? colors.text : colors.faded,
